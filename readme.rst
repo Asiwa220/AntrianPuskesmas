@@ -32,3 +32,17 @@ Panduan Instalasi :
 8.  Jalankan aplikasi dengan ketik localhost/antrian-puskesmas/admin/login.
 9.  Login dengan email : admin@admin.com, Password : admin.
 10. Selesai.
+
+**************************
+Fitur Aplikasi :
+**************************
+1. Login Multi User
+2. Halaman FrontEnd
+3. Ambil Antrian
+4. Data Pasien
+5. Data Poli
+6. Data Antrian
+7. Data Menu
+8. Ubah Password
+9. LogOut
+10. dan lainnya.
