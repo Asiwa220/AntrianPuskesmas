@@ -2,11 +2,11 @@
 Sistem Antrian Pukesmas
 #######################
 
-Aplikasi Antrian Puskesmas Berbasis Web adalah sebuah sistem aplikasi yang dibangun untuk memudahkan dalam pengambilan nomor urut antrian dalam puskesmas. Aplikasi ini dilengkapi dengan fitur login multi user, ambil nomor antrian sesuai poli, data pasein, data poli, data antrian dan lain sebagainya.
+Sistem Antrian Puskesmas Berbasis Web adalah sebuah sistem Web yang dibangun untuk memudahkan dalam pengambilan nomor urut antrian dalam puskesmas. Sistem web ini dilengkapi dengan fitur login multi user, ambil nomor antrian sesuai poli, data pasein, data poli, data antrian dan lain sebagainya.
 
-Source code Aplikasi ini sudah dilakukan testing dan hasilnya dapat berjalan dengan baik meskipun memang ada beberapa bug yang harus diperbaiki lagi dan disempurnakan lagi dan juga bisa ditambahkan lagi fitur baru yang memang belum ada dalam aplikasi ini agar aplikasi ini menjadi semakin baik.
+Source code Sistem ini sudah dilakukan testing dan hasilnya dapat berjalan dengan baik meskipun memang ada beberapa bug yang harus diperbaiki lagi dan disempurnakan lagi dan juga bisa ditambahkan lagi fitur baru yang memang belum ada dalam sistem web ini agar sistem ini menjadi semakin baik.
 
-Source Code aplikasi ini bisa kamu jadikan sebagai referensi untuk menyusun tugas sekolah, tugas akhir, skripsi yang sedang kamu kerjakan atau bisa juga bisa sebagai bahan belajar tentang bagaiamana cara membuat dan cara kerja aplikasi ini dan berikut beberapa screenshot aplikasi ini ketika dijalankan.
+Source Code sistem ini bisa kamu jadikan sebagai referensi untuk menyusun tugas sekolah, tugas akhir, skripsi yang sedang kamu kerjakan atau bisa juga bisa sebagai bahan belajar tentang bagaiamana cara membuat dan cara kerja sistem ini.
 
 ********************
 Sistem Requirement :
